@@ -33,8 +33,19 @@ export default function Hero() {
           <span
             className="mt-1 block leading-[0.8] text-emerald text-[13vw] md:text-[66px]"
             style={{ fontFamily: "'Caveat', cursive" }}
+            aria-label="в Липецке"
           >
-            в Липецке
+            в <span
+              className="inline-block"
+              style={{
+                fontFamily: "'Montserrat', sans-serif",
+                fontSize: "0.82em",
+                fontStyle: "italic",
+                fontWeight: 600,
+                transform: "skewX(-5deg)",
+              }}
+              aria-hidden="true"
+            >Л</span><span aria-hidden="true">ипецке</span>
           </span>
           <p className="mt-6 max-w-md text-lg leading-relaxed text-ink/70 md:text-xl">
             Премиальный клининг квартир и домов в Липецке.
@@ -62,7 +73,7 @@ export default function Hero() {
           </dl>
         </div>
         <div className="relative">
-          <img src="./images/case3-after.jpg" alt="Светлый интерьер после уборки «Вершины» в Липецке" className="aspect-[4/5] w-full rounded-3xl object-cover" />
+          <img src="./images/hero-lipetsk-cathedral.jpg" alt="Чистый интерьер с видом на Христорождественский собор в Липецке" className="aspect-[4/5] w-full rounded-3xl object-cover" />
           <div className="absolute -bottom-5 -left-5 hidden rounded-2xl bg-white p-5 shadow-card md:block">
             <div className="text-[11px] font-semibold uppercase tracking-widest2 text-emerald">убрано в этом месяце</div>
             <div className="mt-1 text-2xl font-bold text-graphite">
