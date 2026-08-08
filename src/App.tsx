@@ -3,6 +3,7 @@ import Hero from "./components/Hero";
 import Manifesto from "./components/Manifesto";
 import Calculator from "./components/Calculator";
 import Services from "./components/Services";
+import SeoCopy from "./components/SeoCopy";
 import Cases from "./components/Cases";
 import Process from "./components/Process";
 import Trust from "./components/Trust";
@@ -21,6 +22,7 @@ export default function App() {
         <Manifesto />
         <Calculator />
         <Services />
+        <SeoCopy />
         <Cases />
         <Process />
         <Trust />
