@@ -384,9 +384,9 @@ utm_source=yandex&utm_medium=cpc&utm_campaign={campaign_name}&utm_content={ad_id
 
 | Файл | Файл для загрузки из репозитория |
 |---|---|
-| `hero.jpg` | `public/images/hero.jpg` |
 | `case1-after.jpg` | `public/images/case1-after.jpg` |
 | `case3-after.jpg` | `public/images/case3-after.jpg` |
+| `lipetsk-apartment-cleaning.png` | `public/images/ads-lipetsk/lipetsk-apartment-cleaning.png` |
 
 Автоматическое описание объекта продвижения для ЕРИР:
 
@@ -574,13 +574,14 @@ utm_source=yandex&utm_medium=cpc&utm_campaign={campaign_name}&utm_content={ad_id
 2. `Обеспыливание стен, парогенератор, техника детально. Оплата после приёмки работы.`
 3. `Без доплат на месте. Проверенные клинеры, имущество застраховано.`
 
-### Изображения — 3 файла
+### Изображения — 4 файла
 
 | Файл | Файл для загрузки из репозитория |
 |---|---|
 | `case3-after.jpg` | `public/images/case3-after.jpg` |
 | `case2-after.jpg` | `public/images/case2-after.jpg` |
-| `hero.jpg` | `public/images/hero.jpg` |
+| `lipetsk-after-renovation.png` | `public/images/ads-lipetsk/lipetsk-after-renovation.png` |
+| `lipetsk-commercial-clinic.png` | `public/images/ads-lipetsk/lipetsk-commercial-clinic.png` |
 
 Автоматическое описание объекта продвижения для ЕРИР:
 
